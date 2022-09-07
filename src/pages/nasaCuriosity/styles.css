@@ -1,0 +1,11 @@
+.filter {
+  display: flex;
+  align-items: center;
+  margin-left: 20px;
+}
+
+.filter__select {
+  margin-left: 10px;
+  width: 100px;
+  height: 30px;
+}
